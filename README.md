@@ -1,44 +1,50 @@
-<!-- AdeelNaeem44's Profile README -->
+# Hi, I'm Adeel 👋  
+AI & Full-Stack Developer | Problem Solver | Lifelong Learner  
 
-<h1 align="center">Hi 👋, I'm Adeel Naeem</h1>
-<h3 align="center">Focused on my goals, trusting the process — InshAllah I will achieve them one day 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdeelNaeem44&label=Profile%20views&color=0e75b6&style=flat" alt="AdeelNaeem44" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Web Development, Machine Learning, and CI/CD best practices**  
-- 💡 I love **building projects that solve real-world problems**  
-- 🔭 I’m currently working on my **final year project & internship projects**  
-- 🧠 Exploring **automation, APIs, and deployment tools**  
-- 📫 Reach me at **adeelnaeem@example.com** (replace with your email)
-
----
-
-### 🛠️ Languages & Tools
+I build data-driven, automated, and interactive solutions — turning ideas into production-ready applications with a focus on scalability, clean code, and usability.  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,git,github,vscode,mysql" />
+  <img src="https://komarev.com/ghpvc/?username=AdeelNaeem44&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Focus Areas
 
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| **Final Year Project** | Your capstone project — describe it briefly here | Python · Flask · ML |
-| **Internship Work** | Scripts, automations & web dev work done during internship | Python · JS |
-| **Semester Projects** | Course work & practice projects from university | Jupyter · Pandas |
-| **AI News Summarizer** | Summarizes news and performs sentiment analysis | Python · NLP |
+- **Full-Stack Development** – React / Next.js frontends + Node.js / Flask backends  
+- **Data Science & ML** – Python, Pandas, scikit-learn, NLP experiments  
+- **Automation** – APIs, webhooks, and scripts to reduce manual work  
+- **GitHub Workflows** – CI/CD, version control best practices, clean documentation  
+- **Scalability & Optimization** – writing efficient, maintainable code  
 
 ---
 
-### 📊 GitHub Stats
+### 🔧 Core Stack
+
+| Domain | Tools / Tech |
+|-------|---------------|
+| **Frontend** | React · Next.js · TailwindCSS |
+| **Backend** | Node.js · Express · Flask |
+| **Data / ML** | Python · Pandas · scikit-learn · Jupyter |
+| **Databases** | MySQL · MongoDB |
+| **Automation** | REST APIs · Webhooks · n8n |
+| **Tools** | Git · GitHub · VSCode · Docker (basic) |
+| **Practices** | Clean Code · Documentation · Testing |
+
+---
+
+### 🧩 Highlight Projects
+
+| Project | Description | Stack | Impact |
+|--------|-------------|-------|--------|
+| **AI News Summarizer & Sentiment Analyzer** | Summarizes news articles and predicts sentiment in real-time | Python · NLP · Streamlit | Makes news easy to digest and understand |
+| **Internship Repository** | Tasks, scripts, and solutions built during internship | Python · APIs · Automation | Hands-on problem solving & project delivery |
+| **Semester Projects** | University projects, coding exercises, data analysis notebooks | Jupyter · Pandas | Built foundational skills for data handling |
+| **Portfolio Experiments** | Web apps and mini tools to practice React & Next.js | React · Next.js · Tailwind | Strengthened frontend & deployment skills |
+
+---
+
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdeelNaeem44&show_icons=true&theme=radical" alt="Adeel's GitHub stats" />
@@ -50,20 +56,34 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🛠️ Core Tech (Focused)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:adeelnaeem@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+**Python** · **React** · **Next.js** · **Node.js** · **MongoDB** · **MySQL** · **Git** · **GitHub**
+
+Focused on: **Full-Stack Development, Data-Driven Apps, and Automation Workflows**
 
 ---
 
-### ⚡ Fun Fact
+### 🧠 Development Principles
 
-> I love turning data into insights and automating repetitive tasks.  
-> Learning a new skill every month is my personal challenge. 🚀
+> **Plan → Build → Test → Refactor → Learn → Repeat**
+
+- Write clean, maintainable, and well-documented code  
+- Automate repetitive tasks wherever possible  
+- Use Git & GitHub effectively for version control  
+- Monitor performance & continuously optimize  
+
+---
+
+### ✉️ Connect
+
+<p>
+<a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Adeel%20Naeem-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:adeelnaeem@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+⭐ If something here helps you, feel free to star a repo or open an issue!
