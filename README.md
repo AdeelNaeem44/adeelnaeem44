@@ -32,25 +32,13 @@
 ---
 
 ## 🛠️ Core Stacks  
- 
-### 🤖 LLM / Agentic  
-`LangChain` · `RAG` · `OpenAI GPT` · `Embeddings` · `Whisper`  
 
-### 🔄 Automation  
-`n8n`  · `Webhooks` · `Scheduling` · `Error Handling`  
-
-### 🏗️ Build / Data  
-`Python` · `JSON` · `Data Parsing`  
-
-### 💾 Storage  
- `Vector DBs (Chroma / Pinecone basics)` 
-
-### 🖥️ Interfaces / Tools  
-`Streamlit` · `Slack` · `Notion` · `Git` · `GitHub Copilot`  
-
-### 🧠 Practices  
-`Prompt Design` · `Tool Chaining` · `Retrieval Evaluation` · `Cost Optimization`  
-
+**LLM / Agentic:** LangChain · RAG · OpenAI GPT · Embeddings · Whisper  
+**Automation:** n8n · Make.com · Webhooks · Scheduling · Error Handling  
+**Build / Data:** Python · SQL · REST APIs · JSON · Data Parsing  
+**Storage:** MySQL · PostgreSQL · MS SQL Server · Baserow · Vector DB (Chroma / Pinecone basics)  
+**Interfaces / Tools:** Streamlit  · Notion · Git · GitHub Copilot  .MongoDB
+**Practices:** Prompt Design · Tool Chaining · Retrieval Evaluation · Cost Optimization   
 
 ---
 
