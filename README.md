@@ -43,9 +43,9 @@
 
 | Project | Description | Tech Stack | Impact |
 |--------|-------------|-----------|-------|
-| **AI Proposal Pitch Deck Generator** | Generates investor-ready pitch decks from a single prompt | LangChain, OpenAI, Streamlit | ⏱️ Reduced deck creation time by **80%** |
-| **AI News Summarizer** | Summarizes daily tech news with sentiment analysis | Python, Hugging Face, n8n | 📰 Saves users **30+ mins/day** |
-| **End-to-End Applicant Automation** | Orchestrated multi-pathway hiring workflow | n8n, Airtable, Slack API | 👥 Cut manual HR work by **70%** |
+| **AI Proposal Pitch Deck Generator** | Generates investor-ready pitch decks from a single prompt | Gemini , python ,React , | ⏱️ Reduced deck creation time by **80%** |
+| **AI News Summarizer** | Summarizes daily tech news with sentiment analysis | Python,Mongo DB, Hugging Face , n8n | 📰 Saves users **30+ mins/day** |
+| **End-to-End Email Automation** | Orchestrated multi-pathway hiring workflow | n8n, Gmail , Response | 👥 Cut manual HR work by **70%** |
 
 ---
 
