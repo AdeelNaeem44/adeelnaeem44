@@ -8,10 +8,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="adeeln454@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AdeelNaeem44?tab=followers">
@@ -32,11 +32,10 @@
 ---
 
 ## 🛠️ Core Stacks  
-- **Languages:** Python, JavaScript/TypeScript, SQL  
-- **Frameworks:** LangChain, FastAPI, Next.js, React  
-- **Automation Tools:** n8n, Airflow, Zapier  
-- **Databases:** PostgreSQL, MongoDB, Pinecone, Weaviate  
-- **Infra & DevOps:** Docker, GitHub Actions, Vercel  
+- **Languages:** Python, Java, C++
+- **Frameworks:** LangChain, FastAPI 
+- **Automation Tools:** n8n 
+- **Databases:** PostgreSQL, MongoDB, Notion
 
 ---
 
@@ -61,27 +60,24 @@
 
 ## 🧠 Core Tech (Focused)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/microsoft/ai-edu/main/docs/images/langchain.png" width="40"/><br><b>LangChain</b></td>
-      <td align="center"><img src="https://n8n.io/favicon.ico" width="40"/><br><b>n8n</b></td>
-      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/><br><b>Hugging Face</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br><b>Vector DBs</b></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FE5196?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
 
 ---
 
 ## 📬 Connect  
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:adeeln454@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/AdeelNaeem44" target="_blank">
@@ -91,4 +87,4 @@
 
 ---
 
-✨ *Let’s build something amazing together!* 🚀
+✨ *Let’s build something amazing together!* 
