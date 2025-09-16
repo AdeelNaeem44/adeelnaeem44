@@ -1,89 +1,75 @@
-# Hi, I'm Adeel 👋  
-AI & Full-Stack Developer | Problem Solver | Lifelong Learner  
-
-I build data-driven, automated, and interactive solutions — turning ideas into production-ready applications with a focus on scalability, clean code, and usability.  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AdeelNaeem44&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🚀 Focus Areas
-
-- **Full-Stack Development** – React / Next.js frontends + Node.js / Flask backends  
-- **Data Science & ML** – Python, Pandas, scikit-learn, NLP experiments  
-- **Automation** – APIs, webhooks, and scripts to reduce manual work  
-- **GitHub Workflows** – CI/CD, version control best practices, clean documentation  
-- **Scalability & Optimization** – writing efficient, maintainable code  
-
----
-
-### 🔧 Core Stack
-
-| Domain | Tools / Tech |
-|-------|---------------|
-| **Frontend** | React · Next.js · TailwindCSS |
-| **Backend** | Node.js · Express · Flask |
-| **Data / ML** | Python · Pandas · scikit-learn · Jupyter |
-| **Databases** | MySQL · MongoDB |
-| **Automation** | REST APIs · Webhooks · n8n |
-| **Tools** | Git · GitHub · VSCode · Docker (basic) |
-| **Practices** | Clean Code · Documentation · Testing |
-
----
-
-### 🧩 Highlight Projects
-
-| Project | Description | Stack | Impact |
-|--------|-------------|-------|--------|
-| **AI News Summarizer & Sentiment Analyzer** | Summarizes news articles and predicts sentiment in real-time | Python · NLP · Streamlit | Makes news easy to digest and understand |
-| **Internship Repository** | Tasks, scripts, and solutions built during internship | Python · APIs · Automation | Hands-on problem solving & project delivery |
-| **Semester Projects** | University projects, coding exercises, data analysis notebooks | Jupyter · Pandas | Built foundational skills for data handling |
-| **Portfolio Experiments** | Web apps and mini tools to practice React & Next.js | React · Next.js · Tailwind | Strengthened frontend & deployment skills |
-
----
-
-### 📊 Stats
+<h1 align="center">👋 Hi, I'm Adeel Naeem</h1>
+<h3 align="center">AI & Automation Engineer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdeelNaeem44&show_icons=true&theme=radical" alt="Adeel's GitHub stats" />
+🚀 I design agentic AI workflows and automation systems that transform manual, repetitive processes into scalable, reliable, and observable pipelines.  
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdeelNaeem44&theme=radical" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
+  <a href="mailto:your@email.com">Email</a> •
+  <a href="https://github.com/AdeelNaeem44?tab=followers">Followers</a> •
+  <img src="https://komarev.com/ghpvc/?username=AdeelNaeem44&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-### 🛠️ Core Tech (Focused)
-
-**Python** · **React** · **Next.js** · **Node.js** · **MongoDB** · **MySQL** · **Git** · **GitHub**
-
-Focused on: **Full-Stack Development, Data-Driven Apps, and Automation Workflows**
-
----
-
-### 🧠 Development Principles
-
-> **Plan → Build → Test → Refactor → Learn → Repeat**
-
-- Write clean, maintainable, and well-documented code  
-- Automate repetitive tasks wherever possible  
-- Use Git & GitHub effectively for version control  
-- Monitor performance & continuously optimize  
+## 🎯 Focus Areas  
+- 🤖 **Agentic AI Orchestration** – multi-step tools, memory-bounded agents, and reasoning pipelines  
+- 🔍 **Retrieval-Augmented Generation (RAG)** – chunking, embeddings, fallback chains  
+- ⚡ **Workflow Automation** – n8n, Make.com, multi-system orchestration  
+- 📊 **Data-Driven Decisions** – tracking, logging, observability  
 
 ---
 
-### ✉️ Connect
+## 🛠️ Core Stacks  
+- **Languages:** Python, JavaScript/TypeScript, SQL  
+- **Frameworks:** LangChain, FastAPI, Next.js, React  
+- **Automation Tools:** n8n, Airflow, Zapier  
+- **Databases:** PostgreSQL, MongoDB, Pinecone, Weaviate  
+- **Infra & DevOps:** Docker, GitHub Actions, Vercel  
 
-<p>
-<a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Adeel%20Naeem-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:adeelnaeem@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+---
+
+## 🌟 Highlight Projects  
+
+| Project | Description | Tech Stack | Impact |
+|--------|-------------|-----------|-------|
+| **AI Proposal Pitch Deck Generator** | Generates investor-ready pitch decks from a single prompt | LangChain, OpenAI, Streamlit | Reduced deck creation time by **80%** |
+| **AI News Summarizer** | Summarizes daily tech news with sentiment analysis | Python, Hugging Face, n8n | Saves users **30+ mins/day** |
+| **End-to-End Applicant Automation** | Orchestrated multi-pathway hiring workflow | n8n, Airtable, Slack API | Cut manual HR work by **70%** |
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AdeelNaeem44&show_icons=true&theme=radical" alt="github stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelNaeem44&layout=compact&theme=radical" alt="top langs" width="48%">
 </p>
 
-⭐ If something here helps you, feel free to star a repo or open an issue!
+---
+
+## 🧠 Core Tech (Focused)
+
+<div align="center">
+
+| 🐍 Python | 🔗 LangChain | 🔄 n8n | 🤗 Hugging Face | 🗂️ Vector DBs |
+|----------|-------------|--------|----------------|--------------|
+| ✅ | ✅ | ✅ | ✅ | ✅ |
+
+</div>
+
+---
+
+## 📬 Connect  
+
+- 📧 **Email:** [your@email.com](mailto:your@email.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin/)  
+- 💬 **DM Me:** Open to collaborations, freelance, or full-time opportunities  
+
+---
+
+✨ *Let’s build something amazing together!* 🚀
