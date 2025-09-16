@@ -32,10 +32,25 @@
 ---
 
 ## 🛠️ Core Stacks  
-- **Languages:** Python, Java, C++
-- **Frameworks:** LangChain, FastAPI 
-- **Automation Tools:** n8n 
-- **Databases:** PostgreSQL, MongoDB, Notion
+ 
+### 🤖 LLM / Agentic  
+`LangChain` · `RAG` · `OpenAI GPT` · `Embeddings` · `Whisper`  
+
+### 🔄 Automation  
+`n8n`  · `Webhooks` · `Scheduling` · `Error Handling`  
+
+### 🏗️ Build / Data  
+`Python` · `JSON` · `Data Parsing`  
+
+### 💾 Storage  
+ `Vector DBs (Chroma / Pinecone basics)` 
+
+### 🖥️ Interfaces / Tools  
+`Streamlit` · `Slack` · `Notion` · `Git` · `GitHub Copilot`  
+
+### 🧠 Practices  
+`Prompt Design` · `Tool Chaining` · `Retrieval Evaluation` · `Cost Optimization`  
+
 
 ---
 
