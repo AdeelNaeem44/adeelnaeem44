@@ -2,7 +2,7 @@
 <h3 align="center">AI & Automation Engineer</h3>
 
 <p align="center">
-🚀 I design agentic AI workflows and automation systems that transform manual, repetitive processes into scalable, reliable, and observable pipelines.
+ I design agentic AI workflows and automation systems that transform manual, repetitive processes into scalable, reliable, and observable pipelines.
 </p>
 
 ---
@@ -24,10 +24,10 @@
 ---
 
 ## 🎯 Focus Areas  
-- 🤖 **Agentic AI Orchestration** – multi-step tools, memory-bounded agents, and reasoning pipelines  
-- 🔍 **Retrieval-Augmented Generation (RAG)** – chunking, embeddings, fallback chains  
-- ⚡ **Workflow Automation** – n8n, Make.com, multi-system orchestration  
-- 📊 **Data-Driven Decisions** – tracking, logging, observability  
+-  **Agentic AI Orchestration** – multi-step tools, memory-bounded agents, and reasoning pipelines  
+-  **Retrieval-Augmented Generation (RAG)** – chunking, embeddings, fallback chains  
+-  **Workflow Automation** – n8n, Make.com, multi-system orchestration  
+-  **Data-Driven Decisions** – tracking, logging, observability  
 
 ---
 
@@ -60,12 +60,15 @@
 
 ## 🧠 Core Tech (Focused)
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FE5196?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Vector%20DBs-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 
@@ -87,4 +90,6 @@
 
 ---
 
+<p align="center">
 ✨ *Let’s build something amazing together!* 
+</p>
