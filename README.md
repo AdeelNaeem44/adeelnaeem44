@@ -49,6 +49,7 @@
 | **AI Proposal Pitch Deck Generator** | Generates investor-ready pitch decks from a single prompt | Gemini , python ,React , | ⏱️ Reduced deck creation time by **80%** |
 | **AI News Summarizer** | Summarizes daily tech news with sentiment analysis | Python,Mongo DB, Hugging Face , n8n | 📰 Saves users **30+ mins/day** |
 | **End-to-End Email Automation** | Orchestrated multi-pathway hiring workflow | n8n, Gmail , Response | 👥 Cut manual HR work by **70%** |
+|**Numl-RAG Chatbot** | generate responses according to user query |python, langchain,huggingface,gemini| communicate with user/students who wants to take information about the university admission.**Using NUML official Docoments** |
 
 ---
 
