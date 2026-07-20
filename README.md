@@ -5,6 +5,14 @@
  I design agentic AI workflows and automation systems that transform manual, repetitive processes into scalable, reliable, and observable pipelines.
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img alt="Animated banner" src="assets/light.svg" width="800">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
@@ -96,4 +104,4 @@
 
 <p align="center">
 ✨ *Let’s build something amazing together!* 
-</p> also give me updated version of this also
+</p>
