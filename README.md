@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adeel Naeem 👋
+# Hi, I'm Adeel Naeem 
 ### AI & Automation Engineer — I build AI Agents, GenAI Apps & Workflow Automation that ship to production
 
 I turn LLMs into systems that actually run in the real world — agents that make decisions, RAG pipelines that answer accurately, and automations that remove hours of manual work from real businesses.
@@ -14,33 +14,33 @@ I turn LLMs into systems that actually run in the real world — agents that mak
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm an AI & Automation Engineer focused on one thing: making AI *useful*, not just impressive in a demo. That means:
 
-- 🤖 Designing **AI Agents** that reason, use tools, and complete multi-step tasks autonomously
-- 🔍 Building **RAG systems** that retrieve the right context and cite it accurately
-- ⚡ Automating business workflows end-to-end with **n8n**, APIs, and custom integrations
-- 🧠 Shipping **GenAI applications** people actually use — not just prototypes
-- 📊 Designing for production: error handling, scalability, and maintainability from day one
+-  Designing **AI Agents** that reason, use tools, and complete multi-step tasks autonomously
+-  Building **RAG systems** that retrieve the right context and cite it accurately
+-  Automating business workflows end-to-end with **n8n**, APIs, and custom integrations
+-  Shipping **GenAI applications** people actually use — not just prototypes
+-  Designing for production: error handling, scalability, and maintainability from day one
 
 If you're hiring for AI engineering, automation, or applied LLM work — this profile is a good place to start.
 
 ---
-# 🌟 Featured Projects
+#  Featured Projects
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🏡 **AI Property Assistant** | AI-powered real estate assistant that helps users search properties, answer property-related queries, and provide personalized recommendations using LLMs and intelligent retrieval. | Python • LangChain • Gemini/OpenAI • RAG • Vector DB |
+|  **AI Property Assistant** | AI-powered real estate assistant that helps users search properties, answer property-related queries, and provide personalized recommendations using LLMs and intelligent retrieval. | Python • LangChain • Gemini/OpenAI • RAG • Vector DB |
 | 🎓 **HUDHUD EDU Website** | Modern educational platform designed to provide students with learning resources, AI-powered features, and a responsive user experience. | React • JavaScript • Python • REST APIs |
-| 🤖 **NUML RAG Agent** | Intelligent university admission assistant built on official NUML documents. Uses Retrieval-Augmented Generation to answer admission-related questions with accurate, context-aware responses. | Python • LangChain • Gemini • ChromaDB • RAG |
-| ❤️ **Empathy AI** | AI-powered training platform that simulates realistic patient conversations to help medical professionals improve empathy, communication, and clinical decision-making skills. | Python • LLMs • Prompt Engineering • NLP • AI Agents |
-| 📊 **AI Proposal Pitch Deck Generator** | Generates professional investor-ready pitch decks from a single prompt, significantly reducing proposal preparation time. | Gemini API • Python • React |
-| 📰 **AI News Summarizer** | Automatically collects, summarizes, and analyzes daily technology news with AI-generated summaries and sentiment analysis. | Python • Hugging Face • MongoDB • n8n |
-| 📧 **End-to-End Email Automation** | Intelligent hiring workflow that automates email generation, candidate communication, and multi-step recruitment processes. | n8n • Gmail API • AI Agents • Workflow Automation |
+|  **NUML RAG Agent** | Intelligent university admission assistant built on official NUML documents. Uses Retrieval-Augmented Generation to answer admission-related questions with accurate, context-aware responses. | Python • LangChain • Gemini • ChromaDB • RAG |
+|  **Empathy AI** | AI-powered training platform that simulates realistic patient conversations to help medical professionals improve empathy, communication, and clinical decision-making skills. | Python • LLMs • Prompt Engineering • NLP • AI Agents |
+|  **AI Proposal Pitch Deck Generator** | Generates professional investor-ready pitch decks from a single prompt, significantly reducing proposal preparation time. | Gemini API • Python • React |
+|  **AI News Summarizer** | Automatically collects, summarizes, and analyzes daily technology news with AI-generated summaries and sentiment analysis. | Python • Hugging Face • MongoDB • n8n |
+|  **End-to-End Email Automation** | Intelligent hiring workflow that automates email generation, candidate communication, and multi-step recruitment processes. | n8n • Gmail API • AI Agents • Workflow Automation |
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 **AI & Generative AI**
 OpenAI API · Gemini API · LangChain · Hugging Face · AI Agents · Prompt Engineering · RAG · Embeddings · Whisper · Vector Databases
@@ -73,7 +73,7 @@ React · Streamlit · FastAPI · Git · GitHub · GitHub Copilot · VS Code
 
 ---
 
-## 🎯 Currently Focused On
+##  Currently Focused On
 
 - Autonomous multi-agent systems
 - Advanced RAG architectures (hybrid search, re-ranking, evaluation)
@@ -83,7 +83,7 @@ React · Streamlit · FastAPI · Git · GitHub · GitHub Copilot · VS Code
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to discussing AI engineering roles, automation projects, or collaborations.
 
@@ -95,6 +95,6 @@ I'm always open to discussing AI engineering roles, automation projects, or coll
 
 ### *"Building intelligent AI systems that automate work, empower people, and create measurable business impact."*
 
-⭐ If any of this is useful or interesting, a follow is appreciated.
+ If any of this is useful or interesting, a follow is appreciated.
 
 </div>
