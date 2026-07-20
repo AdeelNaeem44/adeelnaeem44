@@ -5,7 +5,7 @@
 
 I turn LLMs into systems that actually run in the real world — agents that make decisions, RAG pipelines that answer accurately, and automations that remove hours of manual work from real businesses.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-952108267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-ai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/AdeelNaeem44?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem44)
 ![Profile views](https://komarev.com/ghpvc/?username=AdeelNaeem44&style=for-the-badge&color=blue)
@@ -27,39 +27,17 @@ I'm an AI & Automation Engineer focused on one thing: making AI *useful*, not ju
 If you're hiring for AI engineering, automation, or applied LLM work — this profile is a good place to start.
 
 ---
+# 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
-### 🏡 AI Property Assistant
-Real estate assistant that lets users search, ask questions, and get personalized property recommendations in natural language instead of filtering through listings manually.
-**Stack:** Python • LangChain • Gemini/OpenAI • RAG • ChromaDB
-
-### ❤️ Empathy AI
-Training platform that simulates realistic patient interactions so healthcare professionals can practice empathy, communication, and clinical decision-making in a safe, repeatable environment.
-**Stack:** Python • LLMs • Prompt Engineering • NLP • AI Agents
-
-### 🎓 NUML RAG Agent
-AI admissions assistant trained on official university documents, giving prospective students accurate, sourced answers instead of generic chatbot responses.
-**Stack:** Python • LangChain • Gemini • ChromaDB • RAG
-
-### 📊 AI Proposal Pitch Deck Generator
-Turns a single prompt into an investor-ready pitch deck — cutting proposal prep time from hours to minutes.
-**Stack:** Gemini API • Python • React
-
-### 📧 End-to-End Email Automation
-Fully automated recruitment workflow: candidate outreach, personalized email generation, and multi-step hiring communication, with zero manual intervention after setup.
-**Stack:** n8n • Gmail API • AI Agents • Workflow Automation
-
-### 📰 AI News Summarizer
-Daily pipeline that collects, summarizes, and sentiment-tags tech news automatically, delivering a digestible briefing instead of a firehose of articles.
-**Stack:** Python • Hugging Face • MongoDB • n8n
-
-### 🌐 HUDHUD EDU Website
-Responsive educational platform with AI-powered features built in to enhance the learning experience, not bolted on as an afterthought.
-**Stack:** React • JavaScript • Python • REST APIs
-
-> 💡 *Want the details? Each project is pinned below — check the repo for architecture, setup, and demo links.*
-
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🏡 **AI Property Assistant** | AI-powered real estate assistant that helps users search properties, answer property-related queries, and provide personalized recommendations using LLMs and intelligent retrieval. | Python • LangChain • Gemini/OpenAI • RAG • Vector DB |
+| 🎓 **HUDHUD EDU Website** | Modern educational platform designed to provide students with learning resources, AI-powered features, and a responsive user experience. | React • JavaScript • Python • REST APIs |
+| 🤖 **NUML RAG Agent** | Intelligent university admission assistant built on official NUML documents. Uses Retrieval-Augmented Generation to answer admission-related questions with accurate, context-aware responses. | Python • LangChain • Gemini • ChromaDB • RAG |
+| ❤️ **Empathy AI** | AI-powered training platform that simulates realistic patient conversations to help medical professionals improve empathy, communication, and clinical decision-making skills. | Python • LLMs • Prompt Engineering • NLP • AI Agents |
+| 📊 **AI Proposal Pitch Deck Generator** | Generates professional investor-ready pitch decks from a single prompt, significantly reducing proposal preparation time. | Gemini API • Python • React |
+| 📰 **AI News Summarizer** | Automatically collects, summarizes, and analyzes daily technology news with AI-generated summaries and sentiment analysis. | Python • Hugging Face • MongoDB • n8n |
+| 📧 **End-to-End Email Automation** | Intelligent hiring workflow that automates email generation, candidate communication, and multi-step recruitment processes. | n8n • Gmail API • AI Agents • Workflow Automation |
 ---
 
 ## 🧰 Technical Skills
