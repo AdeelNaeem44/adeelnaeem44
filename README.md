@@ -32,7 +32,7 @@ If you're hiring for AI engineering, automation, or applied LLM work — this pr
 | Project | Description | Technologies |
 |----------|-------------|--------------|
 |  **AI Property Assistant** | AI-powered real estate assistant that helps users search properties, answer property-related queries, and provide personalized recommendations using LLMs and intelligent retrieval. | Python • LangChain • Gemini/OpenAI • RAG • Vector DB |
-| 🎓 **HUDHUD EDU Website** | Modern educational platform designed to provide students with learning resources, AI-powered features, and a responsive user experience. | React • JavaScript • Python • REST APIs |
+|  **HUDHUD EDU Website** | Modern educational platform designed to provide students with learning resources, AI-powered features, and a responsive user experience. | React • JavaScript • Python • REST APIs |
 |  **NUML RAG Agent** | Intelligent university admission assistant built on official NUML documents. Uses Retrieval-Augmented Generation to answer admission-related questions with accurate, context-aware responses. | Python • LangChain • Gemini • ChromaDB • RAG |
 |  **Empathy AI** | AI-powered training platform that simulates realistic patient conversations to help medical professionals improve empathy, communication, and clinical decision-making skills. | Python • LLMs • Prompt Engineering • NLP • AI Agents |
 |  **AI Proposal Pitch Deck Generator** | Generates professional investor-ready pitch decks from a single prompt, significantly reducing proposal preparation time. | Gemini API • Python • React |
