@@ -1,107 +1,134 @@
-<h1 align="center">👋 Hi, I'm Adeel Naeem</h1>
-<h3 align="center">AI & Automation Engineer</h3>
+<div align="center">
 
-<p align="center">
- I design agentic AI workflows and automation systems that transform manual, repetitive processes into scalable, reliable, and observable pipelines.
+# Hi, I'm Adeel Naeem 👋
+### AI & Automation Engineer — I build AI Agents, GenAI Apps & Workflow Automation that ship to production
+
+I turn LLMs into systems that actually run in the real world — agents that make decisions, RAG pipelines that answer accurately, and automations that remove hours of manual work from real businesses.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-952108267/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/AdeelNaeem44?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem44)
+![Profile views](https://komarev.com/ghpvc/?username=AdeelNaeem44&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm an AI & Automation Engineer focused on one thing: making AI *useful*, not just impressive in a demo. That means:
+
+- 🤖 Designing **AI Agents** that reason, use tools, and complete multi-step tasks autonomously
+- 🔍 Building **RAG systems** that retrieve the right context and cite it accurately
+- ⚡ Automating business workflows end-to-end with **n8n**, APIs, and custom integrations
+- 🧠 Shipping **GenAI applications** people actually use — not just prototypes
+- 📊 Designing for production: error handling, scalability, and maintainability from day one
+
+If you're hiring for AI engineering, automation, or applied LLM work — this profile is a good place to start.
+
+---
+
+## 🌟 Featured Projects
+
+### 🏡 AI Property Assistant
+Real estate assistant that lets users search, ask questions, and get personalized property recommendations in natural language instead of filtering through listings manually.
+**Stack:** Python • LangChain • Gemini/OpenAI • RAG • ChromaDB
+
+### ❤️ Empathy AI
+Training platform that simulates realistic patient interactions so healthcare professionals can practice empathy, communication, and clinical decision-making in a safe, repeatable environment.
+**Stack:** Python • LLMs • Prompt Engineering • NLP • AI Agents
+
+### 🎓 NUML RAG Agent
+AI admissions assistant trained on official university documents, giving prospective students accurate, sourced answers instead of generic chatbot responses.
+**Stack:** Python • LangChain • Gemini • ChromaDB • RAG
+
+### 📊 AI Proposal Pitch Deck Generator
+Turns a single prompt into an investor-ready pitch deck — cutting proposal prep time from hours to minutes.
+**Stack:** Gemini API • Python • React
+
+### 📧 End-to-End Email Automation
+Fully automated recruitment workflow: candidate outreach, personalized email generation, and multi-step hiring communication, with zero manual intervention after setup.
+**Stack:** n8n • Gmail API • AI Agents • Workflow Automation
+
+### 📰 AI News Summarizer
+Daily pipeline that collects, summarizes, and sentiment-tags tech news automatically, delivering a digestible briefing instead of a firehose of articles.
+**Stack:** Python • Hugging Face • MongoDB • n8n
+
+### 🌐 HUDHUD EDU Website
+Responsive educational platform with AI-powered features built in to enhance the learning experience, not bolted on as an afterthought.
+**Stack:** React • JavaScript • Python • REST APIs
+
+> 💡 *Want the details? Each project is pinned below — check the repo for architecture, setup, and demo links.*
+
+---
+
+## 🧰 Technical Skills
+
+**AI & Generative AI**
+OpenAI API · Gemini API · LangChain · Hugging Face · AI Agents · Prompt Engineering · RAG · Embeddings · Whisper · Vector Databases
+
+**Automation**
+n8n · Make.com · REST APIs · Webhooks · API Integrations · Scheduling · Error Handling
+
+**Languages**
+Python · SQL · JavaScript · JSON
+
+**Databases**
+PostgreSQL · MySQL · MongoDB · Microsoft SQL Server · ChromaDB · Pinecone · Baserow
+
+**Frameworks & Tools**
+React · Streamlit · FastAPI · Git · GitHub · GitHub Copilot · VS Code
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,mongodb,mysql,postgresql,git,github,vscode"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Animated banner" src="assets/light.svg" width="800">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="adeeln454@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AdeelNaeem44?tab=followers">
-    <img src="https://img.shields.io/github/followers/AdeelNaeem44?style=for-the-badge&logo=github&color=black" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AdeelNaeem44&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
-
-
----
-
-## 🎯 Focus Areas  
--  **Agentic AI Orchestration** – multi-step tools, memory-bounded agents, and reasoning pipelines  
--  **Retrieval-Augmented Generation (RAG)** – chunking, embeddings, fallback chains  
--  **Workflow Automation** – n8n, Make.com, multi-system orchestration  
--  **Data-Driven Decisions** – tracking, logging, observability  
-
----
-
-## 🛠️ Core Stacks  
-
-**LLM / Agentic:** LangChain · RAG · OpenAI GPT · Embeddings · Whisper  
-**Automation:** n8n · Make.com · Webhooks · Scheduling · Error Handling  
-**Build / Data:** Python · SQL · REST APIs · JSON · Data Parsing  
-**Storage:** MySQL · PostgreSQL · MS SQL Server · Baserow · Vector DB (Chroma / Pinecone basics)  
-**Interfaces / Tools:** Streamlit  · Notion · Git · GitHub Copilot  .MongoDB
-**Practices:** Prompt Design · Tool Chaining · Retrieval Evaluation · Cost Optimization   
-
----
-
-## 🌟 Highlight Projects  
-
-| Project | Description | Tech Stack | Impact |
-|--------|-------------|-----------|-------|
-| **AI Proposal Pitch Deck Generator** | Generates investor-ready pitch decks from a single prompt | Gemini , python ,React , | ⏱️ Reduced deck creation time by **80%** |
-| **AI News Summarizer** | Summarizes daily tech news with sentiment analysis | Python,Mongo DB, Hugging Face , n8n | 📰 Saves users **30+ mins/day** |
-| **End-to-End Email Automation** | Orchestrated multi-pathway hiring workflow | n8n, Gmail , Response | 👥 Cut manual HR work by **70%** |
-|**Numl-RAG Chatbot** | generate responses according to user query |python, langchain,huggingface,gemini| communicate with user/students who wants to take information about the university admission.**Using NUML official Docoments** |
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdeelNaeem44&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelNaeem44&layout=compact&theme=radical&hide_border=true" alt="top langs" height="180px"/>
-</p>
-
----
-
-## 🧠 Core Tech (Focused)
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FE5196?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-
----
-
-## 📬 Connect  
-
-<p align="center">
-  <a href="mailto:adeeln454@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adeel-naeem-952108267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AdeelNaeem44" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-FE5186?style=for-the-badge&logo=n8n"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pinecone-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
-✨ *Let’s build something amazing together!* 
-</p>
+## 🎯 Currently Focused On
+
+- Autonomous multi-agent systems
+- Advanced RAG architectures (hybrid search, re-ranking, evaluation)
+- Production-grade AI deployment
+- Scalable workflow automation
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AdeelNaeem44&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelNaeem44&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdeelNaeem44&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing AI engineering roles, automation projects, or collaborations.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-952108267/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem44)
+
+### *"Building intelligent AI systems that automate work, empower people, and create measurable business impact."*
+
+⭐ If any of this is useful or interesting, a follow is appreciated.
+
+</div>
