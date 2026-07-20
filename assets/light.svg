@@ -1,0 +1,67 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff">
+        <animate attributeName="stop-color"
+          values="#ffffff;#f6f8fa;#ffffff"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#f6f8fa">
+        <animate attributeName="stop-color"
+          values="#f6f8fa;#eef1f4;#f6f8fa"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <clipPath id="reveal-light">
+      <rect x="0" y="0" width="0" height="60">
+        <animate attributeName="width"
+          values="0;560;560;0;0"
+          keyTimes="0;0.35;0.55;0.6;1"
+          dur="6s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+
+    <linearGradient id="cursor-fade-light" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="100%" stop-color="#218bff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" rx="14" fill="url(#bg-light)" />
+  <rect x="1" y="1" width="798" height="198" rx="14" fill="none" stroke="#d0d7de" stroke-width="2" />
+
+  <!-- floating accent circles -->
+  <circle cx="700" cy="60" r="10" fill="#0969da" opacity="0.30">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -18; 0 0" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="740" cy="130" r="6" fill="#1a7f37" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 14; 0 0" dur="3.2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="660" cy="150" r="8" fill="#bf3989" opacity="0.30">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -12 0; 0 0" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- typewriter text -->
+  <g clip-path="url(#reveal-light)">
+    <text x="40" y="115" font-family="Consolas, 'Courier New', monospace" font-size="34"
+      fill="#24292f">
+      <tspan fill="#116329">const</tspan> greeting = <tspan fill="#0a3069">"Hello, GitHub!"</tspan>;
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="42" y="80" width="4" height="38" fill="url(#cursor-fade-light)">
+    <animate attributeName="x" values="42;602;602;42;42"
+      keyTimes="0;0.35;0.55;0.6;1" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="40" y="160" font-family="Segoe UI, sans-serif" font-size="14" fill="#57606a">
+    Light mode banner
+    <animate attributeName="opacity" values="0;1" begin="0.2s" dur="1s" fill="freeze" />
+  </text>
+</svg>
