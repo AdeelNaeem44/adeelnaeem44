@@ -80,18 +80,6 @@ React · Streamlit · FastAPI · Git · GitHub · GitHub Copilot · VS Code
 - Production-grade AI deployment
 - Scalable workflow automation
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AdeelNaeem44&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelNaeem44&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdeelNaeem44&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -102,7 +90,7 @@ I'm always open to discussing AI engineering roles, automation projects, or coll
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-952108267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem44)
 
 ### *"Building intelligent AI systems that automate work, empower people, and create measurable business impact."*
